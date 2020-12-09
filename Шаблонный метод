@@ -1,0 +1,2 @@
+# UML
+[AbstractClass|+templateMethod();#subMethod(){bg:greenyellow}^-[ConcreteClass|+subMethod(){bg:greenyellow}]
